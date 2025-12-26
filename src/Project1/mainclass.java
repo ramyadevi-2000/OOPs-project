@@ -8,6 +8,7 @@ public class mainclass {
 		System.out.println("choose restaurant:");
 		System.out.println("1.fastfood");
 		System.out.println("2.finedine");
+		System.out.println("3.kkjkjjkj");
 		
 		int choice=sc.nextInt();
 		
